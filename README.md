@@ -2,7 +2,7 @@
 
 ![Banner](https://raw.githubusercontent.com/luciadevtools/luciadevtools/main/banner.gif)  
 
-Fullstack Developer | Angular + Spring Boot | Web Security Enthusiast | UC3M Cybersecurity Master’s Student  
+Fullstack Developer | Angular + Spring Boot | Web Security Enthusiast  
 
 💻 Construyo aplicaciones web modernas y seguras combinando desarrollo fullstack con buenas prácticas de ciberseguridad.  
 
@@ -24,3 +24,13 @@ Fullstack Developer | Angular + Spring Boot | Web Security Enthusiast | UC3M Cyb
 | **API Segura** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | API REST segura con Swagger, tests unitarios y autenticación | [Demo](#) · [Repo](#) |
 | **Mini Pentesting Demo** ![Security](https://img.shields.io/badge/Security-FF0000?style=flat&logo=owasp&logoColor=white) | App insegura + versión segura para práctica de vulnerabilidades | [Demo](#) · [Repo](#) |
 
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciacerpap)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luciacerpap@email.com)
+
+---
+
+*© 2026 Lucia – Fullstack Developer | Angular + Spring Boot | Cybersecurity*
