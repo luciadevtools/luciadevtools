@@ -1,6 +1,6 @@
 # 👋 Hola, soy Lucia
 
-![Banner](https://raw.githubusercontent.com/luciadevtools/luciadevtools/main/banner.gif)  
+![Banner](https://raw.githubusercontent.com/luciadevtools/luciadevtools/main/banner.gif.mp4)  
 
 Fullstack Developer | Angular + Spring Boot
 
